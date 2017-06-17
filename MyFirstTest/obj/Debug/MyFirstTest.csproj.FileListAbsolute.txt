@@ -1,0 +1,10 @@
+c:\users\sarmkadans\documents\visual studio 2015\Projects\ConsoleApplication1\MyFirstTest\obj\Debug\MyFirstTest.csprojResolveAssemblyReference.cache
+c:\users\sarmkadans\documents\visual studio 2015\Projects\ConsoleApplication1\MyFirstTest\bin\Debug\MyFirstTest.dll
+c:\users\sarmkadans\documents\visual studio 2015\Projects\ConsoleApplication1\MyFirstTest\bin\Debug\MyFirstTest.pdb
+c:\users\sarmkadans\documents\visual studio 2015\Projects\ConsoleApplication1\MyFirstTest\bin\Debug\ConsoleApplication1.exe
+c:\users\sarmkadans\documents\visual studio 2015\Projects\ConsoleApplication1\MyFirstTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\sarmkadans\documents\visual studio 2015\Projects\ConsoleApplication1\MyFirstTest\bin\Debug\ConsoleApplication1.pdb
+c:\users\sarmkadans\documents\visual studio 2015\Projects\ConsoleApplication1\MyFirstTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\sarmkadans\documents\visual studio 2015\Projects\ConsoleApplication1\MyFirstTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\sarmkadans\documents\visual studio 2015\Projects\ConsoleApplication1\MyFirstTest\obj\Debug\MyFirstTest.dll
+c:\users\sarmkadans\documents\visual studio 2015\Projects\ConsoleApplication1\MyFirstTest\obj\Debug\MyFirstTest.pdb
