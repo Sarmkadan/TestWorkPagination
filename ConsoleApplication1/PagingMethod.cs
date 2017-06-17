@@ -117,7 +117,7 @@ namespace ConsoleApplication1
             }
             return paginationList.ToArray();
             
-
+/*
                     if (current+2<count-3)
                     {
                         for (int i = 1; i < 4; i++)
@@ -239,7 +239,7 @@ namespace ConsoleApplication1
                 }
             }
 
-            return paginationList.ToArray();
+            return paginationList.ToArray();*/
         }
     }
 }
